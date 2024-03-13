@@ -1,0 +1,49 @@
+{
+  "books": [
+    {
+      "book_name": "3 Idiots",
+      "author": "Chetan Vagat",
+      "price": "200",
+      "publish_date": "2023-10-20",
+      "available": "yes",
+      "no_of_copy": "20",
+      "id": "1"
+    },
+    {
+      "book_name": "Test Done",
+      "author": "mmm",
+      "price": "55",
+      "publish_date": "2023-11-20",
+      "available": "no",
+      "no_of_copy": "80",
+      "id": "o2pDevE"
+    },
+    {
+      "book_name": "Love Story 2021",
+      "author": "Monalisa",
+      "price": "143",
+      "publish_date": "2023-08-16",
+      "available": "yes",
+      "no_of_copy": "1",
+      "id": "9FVl6tD"
+    },
+    {
+      "book_name": "dil mil k v nehi mile",
+      "author": "Monalisa",
+      "price": "566",
+      "publish_date": "2023-11-25",
+      "available": "yes",
+      "no_of_copy": "34",
+      "id": "ZeNbcxv"
+    },
+    {
+      "book_name": "3 Mistakes of my life",
+      "author": "Chetan Bhagqat",
+      "price": "350",
+      "publish_date": "2023-02-14",
+      "available": "yes",
+      "no_of_copy": "33",
+      "id": "b7-mJKb"
+    }
+  ]
+}
